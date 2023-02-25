@@ -5,7 +5,7 @@ Java , Spring boot , SQL , Azure , SOA
 
 ### Steps to run
 1. `Clone project from git reposiory`<br/>
-   https://github.com/Uniersal-Car-Sale/riyasewanaMockService <br/>
+   https://github.com/Uniersal-Car-Sale/patpatMockService <br/>
    <br/>
 2. `Inject all dependencies required`<br/>
    <br/>
